@@ -7,17 +7,17 @@ const myApp=[
                msg:" ",
                path:"images/letraG",
                structure:[
-                           {question:"GALINHA",options:['G .jpg','G.jpg','G.jpg','G.jpg'],key:4},
+                           {question:"GALINHA",options:['G .jpg','G.jpg','G.jpg','GALINHA.jpg'],key:3},
 
                            {question:"GATO",options:['G.jpg','G.jpg','G.jpg' ,'G.jpg'],key:1},
 
-                           {question:"GALO",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:2},
+                           {question:"GALO",options:['G.jpg','G.jpg','GALO.jpg','G.jpg'],key:2},
 
-                           {question:"GAVETA",options:['G.jpg' ,'G.jpg','G.jpg','G.jpg'],key:0},
+                           {question:"GAVETA",options:['GAVETA.jpg' ,'G.jpg','G.jpg','G.jpg'],key:0},
                            
-                           {question:"GAOVOTA",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:2},
+                           {question:"GAOVOTA",options:['G.jpg','G.jpg','GAIVOTA.jpg','G.jpg'],key:2},
 
-                           {question:"GAIOLA",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                           {question:"GAIOLA",options:['GAIOLA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
                            
                            {question:"GAITA",options:['G.jpg','G.jpg','G.jpg', 'G.jpg',],key:2},
 
@@ -45,7 +45,7 @@ const myApp=[
 
                            {question:"GOLEIRO",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:3},
 
-                           {question:"GOLFINHO",options:['G.jpg','G.jpg','G.jpg' ,'G.jpg'],key:0},
+                           {question:"GOLFINHOS",options:['G.jpg','G.jpg','G.jpg' ,'G.jpg'],key:0},
 
                            {question:"GOTA",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:1},
 
@@ -115,7 +115,7 @@ const myApp=[
 
                               {question:"GOLEIRO",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:3},
 
-                              {question:"GOLFINHO",options:['G.jpg','G.jpg','G.jpg' ,'G.jpg'],key:0},
+                              {question:"GOLFINHOS",options:['G.jpg','G.jpg','G.jpg' ,'G.jpg'],key:0},
 
                               {question:"GOTA",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:1},
 
