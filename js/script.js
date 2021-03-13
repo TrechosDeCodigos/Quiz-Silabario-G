@@ -146,9 +146,8 @@ const myApp=[
               ]
 
              }             
-            ]
-
-     // create select element
+           ]
+ // create select element
      const select=document.createElement("select");
            select.setAttribute("onchange","load(this)") 
       for (let j=0;j<myApp.length;j++){
@@ -271,11 +270,11 @@ const myApp=[
               
               if (this.score > this.quizSize/2){
                    
-                   this.optionEle.innerHTML="<h1><span>FIM DO JOGO</span> <br> PARABÉNS</h1>";
+                   this.optionEle.innerHTML="<h1><img src='images/over.png'/><br> </h1>";
 
               }
               else{
-                this.optionEle.innerHTML="<h1><span>FIM DO JOGO</span> <br> PRATIQUE MAIS</h1>";
+                this.optionEle.innerHTML="<h1><img src='images/game.png'/><br> </h1>";
               }
               
            }
@@ -286,9 +285,6 @@ const myApp=[
       function load(ele) {
         const app1=new App(myApp[ele.value],container)
       }
-
-
-      
 
      
 
