@@ -8,13 +8,17 @@ body{
       background-position: center;
       background-attachment: fixed;
       font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
 } 
   *{
-     box-sizing: border-box; 
+     box-sizing: border-box;
+     margin:0;
+     padding:0;
+     outline:none;
 } 
 
 .app{
-   max-width: 600px;
+   max-width: 700px;
    margin: 60px auto;
    background-color: rgba(91, 128, 86, 0.5);
    padding: 10px 50px 50px 50px;
