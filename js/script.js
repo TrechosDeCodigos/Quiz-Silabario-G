@@ -7,7 +7,7 @@ const myApp=[
                msg:" ",
                path:"images/letraG",
                structure:[
-                           {question:"GA",options:['GELO .jpg','GELADEIRA.jpg','GOTA.jpg','GALINHA.jpg'],key:3},
+                           {question:"GA",options:['GELO.jpg','GELADEIRA.jpg','GOTA.jpg','GALINHA.jpg'],key:3},
 
                            {question:"GA",options:['GOTA.jpg','GATO.jpg','GELADEIRA.jpg' ,'GOLEIRO.jpg'],key:1},
 
