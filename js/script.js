@@ -125,7 +125,7 @@ const myApp=[
 
                              {question:"GOLFINHOS",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETA.jpg' ,'GARFO.jpg'],key:0},
 
-                             {question:"GANGORRA",options:['GOLA.jpg','GORILA.jpg','GELADEIRA.jpg','GANGORRA.jpg'],key:3},
+                             {question:"GARAGEM",options:['GOLA.jpg','GORILA.jpg','GELADEIRA.jpg','GARAGEM.jpg'],key:3},
 
                              {question:"GIRASSOL",options:['GELO.jpg','GELEIA.jpg','GIRASSOL.jpg','GARCONETE.jpg'],key:2},
 
