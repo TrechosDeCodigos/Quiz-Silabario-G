@@ -17,6 +17,8 @@ const myApp=[
 
                            {question:"GA",options:['GAVETA.jpg' ,'GELATINA.jpg','GIRAFA.jpg','GELEIA.jpg'],key:0},
                            
+                           {question:"GE",options:['GOTA.jpg','GORILA.jpg','GOLFINHOS.jpg','GENIO.jpg'],key:3},
+                 
                            {question:"GA",options:['GOTA.jpg','GORILA.jpg','GAIVOTA.jpg','GOLFINHOS.jpg'],key:2},
 
                            {question:"GE",options:['GAROTO.jpg','GELATINA.jpg','GAROTA.jpg','GANGORRA.jpg'],key:1},
@@ -86,6 +88,8 @@ const myApp=[
                               {question:"GELO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:1},
 
                               {question:"GALO",options:['GALGO.jpg','GARAGEM.jpg','GAROTA.jpg','GALO.jpg'],key:3},
+                     
+                              {question:"GÊNIO",options:['GENIO.jpg' ,'GANGORRA.jpg','GARRAFA.jpg','GALHO.jpg'],key:0},
 
                               {question:"GAVETA",options:['GAIVOTA.jpg' ,'GANGORRA.jpg','GAVETA.jpg','GALHO.jpg'],key:2},
                            
@@ -107,7 +111,7 @@ const myApp=[
 
                               {question:"GELEIA",options:['GELEIA.jpg','GANSO.jpg','GALO.jpg' ,'GAIVOTA.jpg'],key:0},
 
-                              {question:"GIRAFA",options:['GIRAFA.jpg','G ANGORRA.jpg','GAROTO.jpg', 'GOIABA.jpg'],key:0},
+                              {question:"GIRAFA",options:['GIRAFA.jpg','GANGORRA.jpg','GAROTO.jpg', 'GOIABA.jpg'],key:0},
 
                               {question:"GAROTO",options:['GOLFINHOS.jpg','GOIABA.jpg','GAROTO.jpg','GIRASSOL.jpg'],key:2},
 
@@ -137,7 +141,7 @@ const myApp=[
 
                              {question:"GARÇONETE",options:['GARCONETE.jpg','GIRASSOL.jpg','GEMEAS.jpg','GULOSO.jpg'],key:0},
 
-                             {question:"GOLA",options:['GARAGEM.jpg','G.jpg','GOLA.jpg','G.jpg'],key:2},
+                             {question:"GOLA",options:['GARAGEM.jpg','GENIO.jpg','GOLA.jpg','GELEIA.jpg'],key:2},
 
                              {question:"GULOSO",options:['GOLFINHOS.jpg','GOLEIRO.jpg','GOTA.jpg','GULOSO.jpg'],key:3},
 
