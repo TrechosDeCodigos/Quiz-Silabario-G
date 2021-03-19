@@ -15,7 +15,7 @@ const myApp=[
 
                            {question:"GA",options:['GOLEIRO.jpg','GELO.jpg','GALO.jpg','GELATINA.jpg'],key:2},
 
-                           {question:"GA",options:['GAVETA.jpg' ,'GELATINA.jpg','GIRAFA.jpg','GELEIA.jpg'],key:0},
+                           {question:"GA",options:['GAVETAS.jpg' ,'GELATINA.jpg','GIRAFA.jpg','GELEIA.jpg'],key:0},
                            
                            {question:"GE",options:['GOTA.jpg','GORILA.jpg','GOLFINHOS.jpg','GENIO.jpg'],key:3},
                  
@@ -33,7 +33,7 @@ const myApp=[
 
                            {question:"GO",options:['GANGORRA.jpg','GOTA.jpg','GALOCHA.jpg','GAROTA.jpg'],key:1},                           
 
-                           {question:"GE",options:['GAVETA.jpg','GELO.jpg','GALO.jpg','GAVIAO .jpg'],key:1},
+                           {question:"GE",options:['GAVETAS.jpg','GELO.jpg','GALO.jpg','GAVIAO .jpg'],key:1},
 
                            {question:"GE",options:['GELEIA.jpg','GANSO.jpg','GALO.jpg' ,'GAIVOTA.jpg'],key:0},
 
@@ -49,7 +49,7 @@ const myApp=[
 
                            {question:"GO",options:['GALOCHA.jpg','GALHO.jpg','GAVIÃO.jpg','GOLEIRO.jpg'],key:3},
 
-                           {question:"GO",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETA.jpg' ,'GARFO.jpg'],key:0},
+                           {question:"GO",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETAS.jpg' ,'GARFO.jpg'],key:0},
 
                            {question:"GA",options:['GEMA.jpg','GORILA.jpg','GELADEIRA.jpg','GANGORRA.jpg'],key:3},
 
@@ -65,7 +65,7 @@ const myApp=[
 
                            {question:"GA",options:['GELADEIRA.jpg','GAFANHOTO.jpg','GELO.jpg','GEMEAS.jpg'],key:1},
 
-                           {question:"GA",options:['GARCONETE.jpg','GIRASSOL.jpg','GEMEAS.jpg','GULOSO.jpg'],key:0},
+                           {question:"GA",options:['GARCONETE.jpg','GIRASSOL.jpg','GEMEAS.jpg','GORILA.jpg'],key:0},
 
                            {question:"GO",options:['GARAGEM.jpg','GELATINA.jpg','GOLA.jpg','GALO.jpg'],key:2},
 
