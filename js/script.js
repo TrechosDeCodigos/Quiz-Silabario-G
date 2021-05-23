@@ -62,6 +62,8 @@ const myApp=[
                            {question:"GE",options:['GAMBA.jpg','GENIO.jpg','GATO.jpg','GAVIAO.jpg'],key:1},
 
                            {question:"GA",options:['GELADEIRA.jpg','GAMBA.jpg','GENIO.jpg','GEMEAS.jpg'],key:1},
+                           
+                           {question:"GO",options:['GARRAFA.jpg','GELO.jpg','GORRO.jpg','GEMA.jpg'],key:2},
 
                            {question:"GA",options:['GEMEAS.jpg','GIGANTE.jpg','GOLFINHOS.jpg','GAROTA.jpg'],key:3},
                            
@@ -91,6 +93,8 @@ const myApp=[
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
+                              {question:"GORRO",options:['GOTA.jpg','GOLEIRO.jpg','GORRO.jpg','GOLA.jpg'],key:2
+ 
                               {question:"GALO",options:['GEMA.jpg','GARAGEM.jpg','GAROTA.jpg','GALO.jpg'],key:3},
                      
                               {question:"GÊNIO",options:['GENIO.jpg' ,'GANGORRA.jpg','GARRAFA.jpg','GALHO.jpg'],key:0},
