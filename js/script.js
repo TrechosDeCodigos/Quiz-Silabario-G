@@ -70,6 +70,8 @@ const myApp=[
                            {question:"GO",options:['GARAGEM.jpg','GELATINA.jpg','GOLA.jpg','GALO.jpg'],key:2},
 
                            {question:"GE",options:['GAROTO.jpg','GARAGEM.jpg','GAROTA.jpg','GEMA.jpg'],key:3},
+                           
+                           {question:"GU",options:['GOTA.jpg','GULOSEIMAS.jpg','GARRAFA.jpg','GIRAFA.jpg'],key:1},
 
                            {question:"GA",options:['GARFO.jpg','GELADEIRA.jpg','GIRAFA.jpg','GENIO.jpg'],key:0}
 
@@ -85,8 +87,6 @@ const myApp=[
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
-                              {question:"GELO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:1},
-
                               {question:"GALO",options:['GEMA.jpg','GARAGEM.jpg','GAROTA.jpg','GALO.jpg'],key:3},
                      
                               {question:"GÊNIO",options:['GENIO.jpg' ,'GANGORRA.jpg','GARRAFA.jpg','GALHO.jpg'],key:0},
@@ -94,6 +94,10 @@ const myApp=[
                               {question:"GAVETAS",options:['GAIVOTA.jpg' ,'GANGORRA.jpg','GAVETAS.jpg','GALHO.jpg'],key:2},
                            
                               {question:"GAIVOTA",options:['GANGORRA.jpg','GAMBA.jpg','GALO.jpg','GAIVOTA.jpg'],key:3},
+                            
+                              {question:"GELO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:1}
+  
+                              {question:"GULOSEIMAS",options:['GOTA.jpg','GULOSEIMAS.jpg','GARRAFA.jpg','GULOSEIMAS.jpg'],key:3},
 
                               {question:"GELATINA",options:['GIRASSOL.jpg','GELEIA.jpg','GELATINA.jpg','GIGANTE.jpg'],key:2},
 
