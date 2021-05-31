@@ -93,7 +93,7 @@ const myApp=[
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
-                              {question:"GORRO",options:['GOTA.jpg','GOLEIRO.jpg','GORRO.jpg','GOLA.jpg'],key:2
+                              {question:"GORRO",options:['GOTA.jpg','GOLEIRO.jpg','GORRO.jpg','GOLA.jpg'],key:2},
  
                               {question:"GALO",options:['GEMA.jpg','GARAGEM.jpg','GAROTA.jpg','GALO.jpg'],key:3},
                      
@@ -103,7 +103,7 @@ const myApp=[
                            
                               {question:"GAIVOTA",options:['GANGORRA.jpg','GAMBA.jpg','GALO.jpg','GAIVOTA.jpg'],key:3},
                             
-                              {question:"GELO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:1}
+                              {question:"GELO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:1},
   
                               {question:"GULOSEIMAS",options:['GOTA.jpg','GULOSEIMAS.jpg','GARRAFA.jpg','GULOSEIMAS.jpg'],key:3},
 
