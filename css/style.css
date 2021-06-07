@@ -149,6 +149,7 @@ body{
      display: flex; /*ADICIONADO 27/04/2021*/
      justify-content: center; /*ADICIONADO 27/04/2021*/
      align-items: center; /*ADICIONADO 27/04/2021*/
+     color: #FCF068;
      margin:10px;
      border:0;
      padding:0;
