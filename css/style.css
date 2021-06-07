@@ -139,7 +139,7 @@ body{
 }
 /*BOTÕES DAS IMAGENS*/
 .app .option-box button{
-     background: rgba(255, 255, 255, 0.1); /*ADD 07/06/2021*/
+     background: rgba(255, 255, 255, 0); /*ADD 07/06/2021*/
      position: relative; /*ADICIONADO 27/04/2021*/
      top: 10px;/*ADICIONADO 27/04/2021*/
      left: 10px;/*ADICIONADO 27/04/2021*/
