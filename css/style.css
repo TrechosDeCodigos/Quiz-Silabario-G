@@ -152,7 +152,7 @@ body{
      margin:10px;
      border:0;
      padding:0;
-     border-radius:4px;
+     border-radius:10px;
      overflow: hidden;
      cursor: pointer;
      animation: button 1s ease;  
