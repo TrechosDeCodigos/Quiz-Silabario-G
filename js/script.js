@@ -45,7 +45,7 @@ const myApp=[
 
                            {question:"GA",options:['GOLFINHOS.jpg','GOIABA.jpg','GAROTO.jpg','GIRASSOL.jpg'],key:2},
 
-                           {question:"GO",options:['GOIABA.jpg','GIRASSOL .jpg','GELADEIRA.jpg','GAVETA.jpg'],key:0},
+                           {question:"GO",options:['GOIABA.jpg','GIRASSOL.jpg','GELADEIRA.jpg','GAVETAS.jpg'],key:0},
 
                            {question:"GO",options: ['GALHO.jpg', 'GALINHA.jpg','GATO.jpg','GORILA.jpg'],key:3},
 
