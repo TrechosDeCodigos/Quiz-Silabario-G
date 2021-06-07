@@ -27,7 +27,7 @@ const myApp=[
                            
                            {question:"GO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GOMA.jpg'],key:3},
 
-                           {question:"GI",options:['GORILA.jpg','GOLFINHOS.jpg','GINCANA.jpg', 'GIRASSOL.jpg',],key:2},
+                           {question:"GI",options:['GORILA.jpg','GOLFINHOS.jpg','GINCANA.jpg','GIRASSOL.jpg',],key:2},
 
                            {question:"GO",options:['GOLA.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:0},
 
@@ -51,7 +51,7 @@ const myApp=[
 
                            {question:"GA",options:['GIRASSOL.jpg','GALOCHA.jpg','GIRAFA.jpg','GORILA.jpg'],key:1},
 
-                           {question:"GO",options:['GALOCHA.jpg','GALHO.jpg','GAVIÃO.jpg','GOLEIRO.jpg'],key:3},
+                           {question:"GO",options:['GALOCHA.jpg','GALHO.jpg','GAVIAO.jpg','GOLEIRO.jpg'],key:3},
 
                            {question:"GO",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETAS.jpg' ,'GARFO.jpg'],key:0},
 
