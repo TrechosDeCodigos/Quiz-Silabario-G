@@ -121,13 +121,13 @@ const myApp=[
 
                               {question:"GELO",options:['GAVETAS.jpg','GELO.jpg','GALO.jpg','GAVIAO.jpg'],key:1},
 
-                              {question:"GELEIA",options:['GELEIA.jpg','GANSO.jpg','GALO.jpg' ,'GAIVOTA.jpg'],key:0},
+                              {question:"GELÉIA",options:['GELEIA.jpg','GANSO.jpg','GALO.jpg' ,'GAIVOTA.jpg'],key:0},
 
                               {question:"GIRAFA",options:['GIRAFA.jpg','GANGORRA.jpg','GAROTO.jpg', 'GOIABA.jpg'],key:0},
 
                               {question:"GAROTO",options:['GOLFINHOS.jpg','GOIABA.jpg','GAROTO.jpg','GIRASSOL.jpg'],key:2},
 
-                              {question:"GOIABA",options:['GOIABA.jpg','GIRASSOL .jpg','GELADEIRA.jpg','GAVETA.jpg'],key:0},
+                              {question:"GOIABA",options:['GOIABA.jpg','GIRASSOL.jpg','GELADEIRA.jpg','GAVETAS.jpg'],key:0},
 
                               {question:"GORILA",options: ['GALHO.jpg', 'GALINHA.jpg','GATO.jpg','GORILA.jpg'],key:3},
 
