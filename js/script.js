@@ -89,7 +89,7 @@ const myApp=[
                    msg:" ",
                    path:"images/letraG",
                    structure:[
-                              {question:"GALINHA",options:['GAVETA.jpg','GALINHA.jpg','GALO.jpg','GARRAFA.jpg'],key:1},
+                              {question:"GALINHA",options:['GAVETAS.jpg','GALINHA.jpg','GALO.jpg','GARRAFA.jpg'],key:1},
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
