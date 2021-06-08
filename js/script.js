@@ -63,7 +63,7 @@ const myApp=[
 
                            {question:"GA",options:['GELADEIRA.jpg','GAMBA.jpg','GENIO.jpg','GEMEAS.jpg'],key:1},
                            
-                           {question:"GO",options:['GARRAFA.jpg','GELO.jpg','GORRO.jpg','GEMA.jpg'],key:2},
+                           {question:"GI",options:['GARRAFA.jpg','GELO.jpg','GIZ.jpg','GEMA.jpg'],key:2},
 
                            {question:"GA",options:['GEMEAS.jpg','GIGANTE.jpg','GOLFINHOS.jpg','GAROTA.jpg'],key:3},
                            
