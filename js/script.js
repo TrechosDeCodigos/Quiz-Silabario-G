@@ -93,7 +93,7 @@ const myApp=[
 
                               {question:"GATO",options:['GATO.jpg','GARRAFA.jpg','GAIOLA.jpg' ,'GALHO.jpg'],key:0},
 
-                              {question:"GORRO",options:['GOTA.jpg','GOLEIRO.jpg','GORRO.jpg','GOLA.jpg'],key:2},
+                              {question:"GIZ",options:['GOTA.jpg','GOLEIRO.jpg','GIZ.jpg','GOLA.jpg'],key:2},
  
                               {question:"GALO",options:['GEMA.jpg','GARAGEM.jpg','GAROTA.jpg','GALO.jpg'],key:3},
                      
