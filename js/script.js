@@ -119,7 +119,7 @@ const myApp=[
 
                               {question:"GOTA",options:['GANGORRA.jpg','GOTA.jpg','GALOCHA.jpg','GAROTA.jpg'],key:1},                           
 
-                              {question:"GELO",options:['GAVETA.jpg','GELO.jpg','GALO.jpg','GAVIAO .jpg'],key:1},
+                              {question:"GELO",options:['GAVETAS.jpg','GELO.jpg','GALO.jpg','GAVIAO.jpg'],key:1},
 
                               {question:"GELEIA",options:['GELEIA.jpg','GANSO.jpg','GALO.jpg' ,'GAIVOTA.jpg'],key:0},
 
