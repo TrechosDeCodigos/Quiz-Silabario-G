@@ -133,9 +133,9 @@ const myApp=[
 
                               {question:"GALOCHA",options:['GIRASSOL.jpg','GALOCHA.jpg','GIRAFA.jpg','GORILA.jpg'],key:1},
 
-                              {question:"GOLEIRO",options:['GALOCHA.jpg','GALHO.jpg','GAVIÃO.jpg','GOLEIRO.jpg'],key:3},
+                              {question:"GOLEIRO",options:['GALOCHA.jpg','GALHO.jpg','GAVIAO.jpg','GOLEIRO.jpg'],key:3},
 
-                              {question:"GOLFINHOS",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETA.jpg' ,'GARFO.jpg'],key:0},
+                              {question:"GOLFINHOS",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETAS.jpg' ,'GARFO.jpg'],key:0},
 
                               {question:"GARAGEM",options:['GOLA.jpg','GORILA.jpg','GELADEIRA.jpg','GARAGEM.jpg'],key:3},
 
