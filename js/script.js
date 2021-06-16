@@ -7,79 +7,94 @@ const myApp=[
                msg:" ",
                path:"images/letraG",
                structure:[
-                           {question:"GA",options:['GELO.jpg','GELEIA.jpg','GOTA.jpg','GALINHA.jpg'],key:3},
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALINHA.jpg'],key:3},
 
-                           {question:"GA",options:['GOTA.jpg','GATO.jpg','GELADEIRA.jpg' ,'GOLEIRO.jpg'],key:1},
+                           {question:"GA",options:['G.jpg','GATO.jpg','G.jpg' ,'G.jpg'],key:1},
 
-                           {question:"GE",options:['GATO.jpg','GAVETAS.jpg','GELADEIRA.jpg','GALHO.jpg'],key:2},
+                           {question:"GI",options:['GIZ.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+ 
+                           {question:"GA",options:['G.jpg','G.jpg','GALO.jpg','G.jpg'],key:2},
+                     
+                           {question:"GÊ",options:['G.jpg' ,'G.jpg','G.jpg','GENIO.jpg'],key:3},
 
-                           {question:"GA",options:['GOLEIRO.jpg','GELO.jpg','GALO.jpg','GELATINA.jpg'],key:2},
+                           {question:"GA",options:['GAVETAS.jpg' ,'G.jpg','G.jpg','G.jpg'],key:0},
+                              
+                           {question:"GI",options:['G.jpg','G.jpg','GILETE.jpg','G.jpg'],key:2},
+                              
+                           {question:"GA",options:['G.jpg','GAIVOTA.jpg','G.jpg','G.jpg'],key:1},
+                            
+                           {question:"GE",options:['G.jpg','G.jpg','G.jpg','GELO.jpg'],key:3},
 
-                           {question:"GA",options:['GAVETAS.jpg' ,'GELATINA.jpg','GIRAFA.jpg','GELEIA.jpg'],key:0},
+                           {question:"GA",options:['GARCA.jpg','G.jpg','G.jpg','G.jpg'],key:0},   
+                              
+                           {question:"GU",options:['G.jpg','G.jpg','GULOSEIMAS.jpg','G.jpg'],key:2},
+
+                           {question:"GE",options:['G.jpg','GELATINA.jpg','G.jpg','G.jpg'],key:1},
+
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GAIOLA.jpg'],key:3},
                            
-                           {question:"GE",options:['GOTA.jpg','GORILA.jpg','GOLFINHOS.jpg','GENIO.jpg'],key:3},
-                 
-                           {question:"GA",options:['GOTA.jpg','GORILA.jpg','GAIVOTA.jpg','GOLFINHOS.jpg'],key:2},
+                           {question:"GÊ",options:['GEMEAS.jpg','G.jpg','G.jpg', 'G.jpg',],key:0},
 
-                           {question:"GE",options:['GAROTO.jpg','GELATINA.jpg','GAROTA.jpg','GANGORRA.jpg'],key:1},
+                           {question:"GA",options:['G.jpg','G.jpg','GARRAFA.jpg','G.jpg'],key:2},
 
-                           {question:"GA",options:['GAIOLA.jpg','GOIABA.jpg','GOLFINHOS.jpg','GOLEIRO.jpg'],key:0},
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALHO.jpg'],key:3},
+
+                           {question:"GO",options:['GOTA.jpg','G.jpg','G.jpg','G.jpg'],key:0},                           
+
+                           {question:"GA",options:['G.jpg','GANSO.jpg','G.jpg','G.jpg'],key:1},
+                              
+                           {question:"GE",options:['G.jpg','G.jpg','GELEIA.jpg' ,'G.jpg'],key:2},
+ 
+                           {question:"GA",options:['GANGORRA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+
+                           {question:"GI",options:['G.jpg','G.jpg','G.jpg', 'GIRAF.jpg'],key:3},
+
+                           {question:"GA",options:['G.jpg','GAROTO.jpg','G.jpg','G.jpg'],key:1},
+
+                           {question:"GO",options:['G.jpg','G.jpg','GOIABA.jpg','G.jpg'],key:2},
+                              
+                           {question:"GI",options:['GINASTICA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                              
+                           {question:"GO",options: ['G.jpg', 'GORILA.jpg','G.jpg','G.jpg'],key:1},
+
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALOCHA.jpg'],key:3},
+
+                           {question:"GO",options:['G.jpg','G.jpg','GOLEIRO.jpg','G.jpg'],key:2},
+                               
+                           {question:"GA",options:['GAVIAO.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                              
+                           {question:"GO",options:['G.jpg','GOLFINHOS.jpg','G.jpg' ,'G.jpg'],key:1},
+
+                           {question:"GA",options:['G.jpg','G.jpg','GARAGEM.jpg','G.jpg'],key:2},
+
+                           {question:"GI",options:['G.jpg','G.jpg','G.jpg','GIRASSOL.jpg'],key:3},
+
+                           {question:"GÊ",options:['GENIO.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                             
+                           {question:"GO",options:['G.jpg','GOTA.jpg','G.jpg','G.jpg'],key:1},
+
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GAMBA.jpg'],key:3},
+                              
+                           {question:"GE",options:['G.jpg','G.jpg','GELADEIRA.jpg','G.jpg'],key:2},
+
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','G.jpg'],key:0},
                            
-                           {question:"GO",options:['GELO.jpg','GELADEIRA.jpg','GIGANTE.jpg','GOMA.jpg'],key:3},
+                           {question:"GI",options:['G.jpg',''GIGANTEjpg','G.jpg','G.jpg'],key:1},
 
-                           {question:"GI",options:['GORILA.jpg','GOLFINHOS.jpg','GINCANA.jpg','GULOSEIMAS.jpg',],key:2},
+                           {question:"GA",options:['G.jpg','G.jpg','GAFANHOTO.jpg','G.jpg'],key:2},
+                             
+                           {question:"G0",options:['GOMA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                             
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GARCONETE.jpg'],key:3},
 
-                           {question:"GO",options:['GOLA.jpg','GELADEIRA.jpg','GIGANTE.jpg','GIRASSOL.jpg'],key:0},
+                           {question:"GO",options:['G.jpg','GOLA.jpg','G.jpg','G.jpg'],key:1},
 
-                           {question:"GA",options:['GIRASSOL.jpg','GARRAFA.jpg','GIRAFA.jpg','GELADEIRA.jpg'],key:1},
+                           {question:"GE",options:['G.jpg','G.jpg','GEMA.jpg','G.jpg'],key:2},
+                              
+                           {question:"GI",options:['GINCANA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
 
-                           {question:"GA",options:['GALHO.jpg','GIRASSOL.jpg','GIRAFA.jpg','GOLFINHOS.jpg'],key:0},
+                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GARFO.jpg'],key:3}
 
-                           {question:"GO",options:['GANGORRA.jpg','GALOCHA.jpg','GOTA.jpg','GAROTA.jpg'],key:2},                           
-
-                           {question:"GE",options:['GAVETAS.jpg','GAVIAO.jpg','GALO.jpg','GELO.jpg'],key:3},
-
-                           {question:"GE",options:['GELEIA.jpg','GALO.jpg','GANSO.jpg','GAIVOTA.jpg'],key:0},
-
-                           {question:"GI",options:['GANGORRA.jpg','GIRAFA.jpg','GAROTO.jpg','GOIABA.jpg'],key:1},
-
-                           {question:"GA",options:['GOLFINHOS.jpg','GOIABA.jpg','GAROTO.jpg','GIRASSOL.jpg'],key:2},
-
-                           {question:"GO",options:['GOIABA.jpg','GIRASSOL.jpg','GELADEIRA.jpg','GAVETAS.jpg'],key:0},
-
-                           {question:"GO",options: ['GALHO.jpg', 'GALINHA.jpg','GATO.jpg','GORILA.jpg'],key:3},
-
-                           {question:"GA",options:['GIRASSOL.jpg','GALOCHA.jpg','GIRAFA.jpg','GORILA.jpg'],key:1},
-
-                           {question:"GO",options:['GALOCHA.jpg','GALHO.jpg','GAVIAO.jpg','GOLEIRO.jpg'],key:3},
-
-                           {question:"GO",options:['GOLFINHOS.jpg','GAIVOTA.jpg','GAVETAS.jpg' ,'GARFO.jpg'],key:0},
-
-                           {question:"GA",options:['GEMA.jpg','GORILA.jpg','GELADEIRA.jpg','GANGORRA.jpg'],key:3},
-
-                           {question:"GI",options:['GELO.jpg','GELEIA.jpg','GIRASSOL.jpg','GARCONETE.jpg'],key:2},
-
-                           {question:"GE",options:['GAMBA.jpg','GENIO.jpg','GATO.jpg','GAVIAO.jpg'],key:1},
-
-                           {question:"GA",options:['GELADEIRA.jpg','GAMBA.jpg','GENIO.jpg','GEMEAS.jpg'],key:1},
-                           
-                           {question:"GI",options:['GARRAFA.jpg','GELO.jpg','GIZ.jpg','GEMA.jpg'],key:2},
-
-                           {question:"GA",options:['GEMEAS.jpg','GIGANTE.jpg','GOLFINHOS.jpg','GAROTA.jpg'],key:3},
-                           
-                           {question:"GI",options:['GANGORRA.jpg','GOTA.jpg','GIGANTE.jpg','GAROTA.jpg'],key:2},
-
-                           {question:"GA",options:['GELADEIRA.jpg','GAFANHOTO.jpg','GELO.jpg','GEMEAS.jpg'],key:1},
-
-                           {question:"GA",options:['GARCONETE.jpg','GIRASSOL.jpg','GEMEAS.jpg','GORILA.jpg'],key:0},
-
-                           {question:"GO",options:['GARAGEM.jpg','GELATINA.jpg','GOLA.jpg','GALO.jpg'],key:2},
-
-                           {question:"GE",options:['GAROTO.jpg','GARAGEM.jpg','GAROTA.jpg','GEMA.jpg'],key:3},
-                           
-                           {question:"GU",options:['GOTA.jpg','GULOSEIMAS.jpg','GARRAFA.jpg','GIRAFA.jpg'],key:1},
-
-                           {question:"GA",options:['GARFO.jpg','GELADEIRA.jpg','GIRAFA.jpg','GENIO.jpg'],key:0}
 
                           ]
               },
