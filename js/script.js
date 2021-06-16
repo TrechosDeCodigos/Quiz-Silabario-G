@@ -39,7 +39,7 @@ const myApp=[
 
                            {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALHO.jpg'],key:3},
 
-                           {question:"GO",options:['GOTA.jpg','G.jpg','G.jpg','G.jpg'],key:0},                           
+                           {question:"GO",options:['GOLFE.jpg','G.jpg','G.jpg','G.jpg'],key:0},                           
 
                            {question:"GA",options:['G.jpg','GANSO.jpg','G.jpg','G.jpg'],key:1},
                               
@@ -168,7 +168,7 @@ const myApp=[
 
                               {question:"GÊNIO",options:['GAMBA.jpg','GENIO.jpg','GATO.jpg','GAVIAO.jpg'],key:1},
                              
-                              {question:"GOTA",options:['GOLFINHOS.jpg','GOLEIRO.jpg','GOTA.jpg','GEMA.jpg'],key:2},
+                              {question:"GOLFE",options:['GOLFINHOS.jpg','GOLEIRO.jpg','GOLFE.jpg','GEMA.jpg'],key:2},
 
                               {question:"GAMBÁ",options:['GELADEIRA.jpg','GAMBA.jpg','GENIO.jpg','GEMEAS.jpg'],key:1},
                               
