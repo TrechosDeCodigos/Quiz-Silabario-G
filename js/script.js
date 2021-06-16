@@ -7,21 +7,21 @@ const myApp=[
                msg:" ",
                path:"images/letraG",
                structure:[
-                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALINHA.jpg'],key:3},
+                           {question:"GA",options:['GULOSEIMAS.jpg','GOLFE.jpg','GIGANTE.jpg','GALINHA.jpg'],key:3},
 
-                           {question:"GA",options:['G.jpg','GATO.jpg','G.jpg' ,'G.jpg'],key:1},
+                           {question:"GA",options:['GIRAFA.jpg','GATO.jpg','GELATINA.jpg' ,'GIRASSOL.jpg'],key:1},
 
-                           {question:"GI",options:['GIZ.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                           {question:"GI",options:['GIZ.jpg','GORILA.jpg','GOTA.jpg','GARFO.jpg'],key:0},
  
-                           {question:"GA",options:['G.jpg','G.jpg','GALO.jpg','G.jpg'],key:2},
+                           {question:"GA",options:['GELEIA.jpg','GOLFINHOS.jpg','GALO.jpg','GIGANTE.jpg'],key:2},
                      
-                           {question:"GÊ",options:['G.jpg' ,'G.jpg','G.jpg','GENIO.jpg'],key:3},
+                           {question:"GÊ",options:['GOIABA.jpg' ,'GULOSEIMAS.jpg','GARRAFA.jpg','GENIO.jpg'],key:3},
 
-                           {question:"GA",options:['GAVETAS.jpg' ,'G.jpg','G.jpg','G.jpg'],key:0},
+                           {question:"GA",options:['GAVETAS.jpg' ,'GINASTICA.jpg','GEMEAS.jpg','GELADEIRA.jpg'],key:0},
                               
-                           {question:"GI",options:['G.jpg','G.jpg','GILETE.jpg','G.jpg'],key:2},
+                           {question:"GI",options:['GANGORRA.jpg','GOLA.jpg','GILETE.jpg','GELO.jpg'],key:2},
                               
-                           {question:"GA",options:['G.jpg','GAIVOTA.jpg','G.jpg','G.jpg'],key:1},
+                           {question:"GA",options:['GINCANA.jpg','GAIVOTA.jpg','GELEIA.jpg','GIRASSOL.jpg'],key:1},
                             
                            {question:"GE",options:['G.jpg','G.jpg','G.jpg','GELO.jpg'],key:3},
 
