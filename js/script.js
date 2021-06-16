@@ -35,7 +35,7 @@ const myApp=[
                            
                            {question:"GÊ",options:['GEMEAS.jpg','GARAGEM.jpg','GOLFE.jpg', 'GIRASSOL.jpg',],key:0},
 
-                           {question:"GA",options:['GORILA.jpg','GOLFE.jpg','GARRAFA.jpg','GEMA.jpg'],key:2},
+                           {question:"GA",options:['GORILA.jpg','GOLFE.jpg','GARAFA.jpg','GEMA.jpg'],key:2},
 
                            {question:"GA",options:['GEMA.jpg','GINCANA.jpg','GIZ.jpg','GALHO.jpg'],key:3},
 
@@ -43,9 +43,9 @@ const myApp=[
 
                            {question:"GA",options:['GELO.jpg','GANSO.jpg','GEMA.jpg','GILETE.jpg'],key:1},
                               
-                           {question:"GE",options:['G.jpg','G.jpg','GELEIA.jpg' ,'G.jpg'],key:2},
+                           {question:"GE",options:['GINCANA.jpg','GAVETAS.jpg','GELEIA.jpg' ,'GOMA.jpg'],key:2},
  
-                           {question:"GA",options:['GANGORRA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
+                           {question:"GA",options:['GANGORRA.jpg','GOLFE.jpg','G.jpg','G.jpg'],key:0},
 
                            {question:"GI",options:['G.jpg','G.jpg','G.jpg', 'GIRAFA.jpg'],key:3},
 
