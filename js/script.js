@@ -79,7 +79,7 @@ const myApp=[
 
                            {question:"GA",options:['GAROTA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
                            
-                           {question:"GI",options:['G.jpg','GIGANTEjpg','G.jpg','G.jpg'],key:1},
+                           {question:"GI",options:['G.jpg','GIGANTE.jpg','G.jpg','G.jpg'],key:1},
 
                            {question:"GA",options:['G.jpg','G.jpg','GAFANHOTO.jpg','G.jpg'],key:2},
                              
