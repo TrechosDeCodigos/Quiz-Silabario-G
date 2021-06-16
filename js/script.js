@@ -25,23 +25,23 @@ const myApp=[
                             
                            {question:"GE",options:['GOLFE.jpg','GAVIAO.jpg','GAVETAS.jpg','GELO.jpg'],key:3},
 
-                           {question:"GA",options:['GARCA.jpg','GANGORRA.jpg','GOLFINHOS.jpg','GEMEAS.jpg'],key:0},   
+                           {question:"GA",options:['GARCA.jpg','GORILA.jpg','GOLFINHOS.jpg','GEMEAS.jpg'],key:0},   
                               
                            {question:"GU",options:['GOTA.jpg','GOLEIRO.jpg','GULOSEIMAS.jpg','GOLFE.jpg'],key:2},
 
                            {question:"GE",options:['GIGANTE.jpg','GELATINA.jpg','GIZ.jpg','GIRAFA.jpg'],key:1},
 
-                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GAIOLA.jpg'],key:3},
+                           {question:"GA",options:['GELEIA.jpg','GINASTICA.jpg','GELADEIRA.jpg','GAIOLA.jpg'],key:3},
                            
-                           {question:"GÊ",options:['GEMEAS.jpg','G.jpg','G.jpg', 'G.jpg',],key:0},
+                           {question:"GÊ",options:['GEMEAS.jpg','GARAGEM.jpg','GOLFE.jpg', 'GIRASSOL.jpg',],key:0},
 
-                           {question:"GA",options:['G.jpg','G.jpg','GARRAFA.jpg','G.jpg'],key:2},
+                           {question:"GA",options:['GORILA.jpg','GOLFE.jpg','GARRAFA.jpg','GEMA.jpg'],key:2},
 
-                           {question:"GA",options:['G.jpg','G.jpg','G.jpg','GALHO.jpg'],key:3},
+                           {question:"GA",options:['GEMA.jpg','GINCANA.jpg','GIZ.jpg','GALHO.jpg'],key:3},
 
-                           {question:"GO",options:['GOLFE.jpg','G.jpg','G.jpg','G.jpg'],key:0},                           
+                           {question:"GO",options:['GOLFE.jpg','GULOSEIMAS.jpg','GIRAFA.jpg','GANGORRA.jpg'],key:0},                           
 
-                           {question:"GA",options:['G.jpg','GANSO.jpg','G.jpg','G.jpg'],key:1},
+                           {question:"GA",options:['GELO.jpg','GANSO.jpg','GEMA.jpg','GILETE.jpg'],key:1},
                               
                            {question:"GE",options:['G.jpg','G.jpg','GELEIA.jpg' ,'G.jpg'],key:2},
  
