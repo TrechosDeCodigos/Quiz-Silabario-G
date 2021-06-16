@@ -23,13 +23,13 @@ const myApp=[
                               
                            {question:"GA",options:['GINCANA.jpg','GAIVOTA.jpg','GELEIA.jpg','GIRASSOL.jpg'],key:1},
                             
-                           {question:"GE",options:['G.jpg','G.jpg','G.jpg','GELO.jpg'],key:3},
+                           {question:"GE",options:['GOLFE.jpg','GAVIAO.jpg','GAVETAS.jpg','GELO.jpg'],key:3},
 
-                           {question:"GA",options:['GARCA.jpg','G.jpg','G.jpg','G.jpg'],key:0},   
+                           {question:"GA",options:['GARCA.jpg','GANGORRA.jpg','GOLFINHOS.jpg','GEMEAS.jpg'],key:0},   
                               
-                           {question:"GU",options:['G.jpg','G.jpg','GULOSEIMAS.jpg','G.jpg'],key:2},
+                           {question:"GU",options:['GOTA.jpg','GOLEIRO.jpg','GULOSEIMAS.jpg','GOLFE.jpg'],key:2},
 
-                           {question:"GE",options:['G.jpg','GELATINA.jpg','G.jpg','G.jpg'],key:1},
+                           {question:"GE",options:['GIGANTE.jpg','GELATINA.jpg','GIZ.jpg','GIRAFA.jpg'],key:1},
 
                            {question:"GA",options:['G.jpg','G.jpg','G.jpg','GAIOLA.jpg'],key:3},
                            
