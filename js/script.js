@@ -47,7 +47,7 @@ const myApp=[
  
                            {question:"GA",options:['GANGORRA.jpg','G.jpg','G.jpg','G.jpg'],key:0},
 
-                           {question:"GI",options:['G.jpg','G.jpg','G.jpg', 'GIRAF.jpg'],key:3},
+                           {question:"GI",options:['G.jpg','G.jpg','G.jpg', 'GIRAFA.jpg'],key:3},
 
                            {question:"GA",options:['G.jpg','GAROTO.jpg','G.jpg','G.jpg'],key:1},
 
