@@ -1,5 +1,7 @@
 //Add 18-06-2021
-const som_HIT = new Audio();som_HIT.src = './efeitos/hit.wav';
+const som_HIT = new Audio();
+som_HIT.src = './efeitos/hit.wav';
+
 const container=document.querySelector(".app");
 
 const myApp=[
