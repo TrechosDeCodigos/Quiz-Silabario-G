@@ -245,7 +245,23 @@ const myApp=[
                     this.optionEle.appendChild(button)     
                 }
                 this.optionClick();
+
                 
+                // Add 19-06-2021 - Começo Efeito Água  
+                (function($){
+                "use strict";
+                 $(document).ready(function(){
+                 var $waterEffect = $('.water-effect');
+                 if ($waterEffect.length > 0){
+                 $waterEffect.ripples({
+                       resolution: 256,
+                       perturbance: 0.05,
+                   });
+                }
+             })
+
+             })(jQuery);
+             // Add 19-06-2021 - Fim Efeito Água  
 
            }
 
