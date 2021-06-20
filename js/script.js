@@ -247,21 +247,9 @@ const myApp=[
                 this.optionClick();
 
                 
-                // Add 19-06-2021 - Começo Efeito Água  
-                (function($){
-                "use strict";
-                 $(document).ready(function(){
-                 var $waterEffect = $('.water-effect');
-                 if ($waterEffect.length > 0){
-                 $waterEffect.ripples({
-                       resolution: 256,
-                       perturbance: 0.05,
-                   });
-                }
-             })
-
-             })(jQuery);
-             // Add 19-06-2021 - Fim Efeito Água  
+                // Add 19-06-2021 - Efeito Água - Não deu certo
+                
+              
 
            }
 
@@ -327,7 +315,21 @@ const myApp=[
                 }
 
            }
+           //add 20-06-2021
+           (function($){
+                "use strict";
+                 $(document).ready(function(){
+                 var $waterEffect = $('.water-effect');
+                 if ($waterEffect.length > 0){
+                 $waterEffect.ripples({
+                       resolution: 256,
+                       perturbance: 0.05,
+                   });
+                }
+             })
 
+             })(jQuery);
+           //add 20-07-2021
            quizOver(){
 
               this.msgEle.innerHTML="";
