@@ -315,21 +315,9 @@ const myApp=[
                 }
 
            }
-           //add 20-06-2021
-           (function($){
-                "use strict";
-                 $(document).ready(function(){
-                 var $waterEffect = $('.water-effect');
-                 if ($waterEffect.length > 0){
-                 $waterEffect.ripples({
-                       resolution: 256,
-                       perturbance: 0.05,
-                   });
-                }
-             })
-
-             })(jQuery);
-           //add 20-07-2021
+           //add 20-06-2021 - Sumiu as imagens
+           
+           
            quizOver(){
 
               this.msgEle.innerHTML="";
