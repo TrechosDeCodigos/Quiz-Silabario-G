@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Shadow&family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap');
 body{
       margin:0;
       padding:0;
@@ -11,7 +11,7 @@ body{
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
-      font-family:'Roboto Condensed', sans-serif;
+      font-family: 'Londrina Shadow', cursive;
 } 
   *{
      box-sizing: border-box; 
