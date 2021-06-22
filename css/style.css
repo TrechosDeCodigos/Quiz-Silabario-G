@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 body{
       margin:0;
       padding:0;
@@ -11,7 +11,7 @@ body{
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
-      font-family: 'Londrina Shadow', cursive;
+      font-family: 'Merriweather', serif;
 } 
   *{
      box-sizing: border-box; 
