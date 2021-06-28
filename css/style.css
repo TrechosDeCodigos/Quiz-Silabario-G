@@ -294,12 +294,12 @@ body{
 }
 
 @keyframes quizOver{
-   0 % {
+        0 % {
                 transformar :  escala ( 1 );
             }
 
             25 % {
-                transformar :  escala ( 1,1 );
+                transformar :  escala ( 1.1 );
             }
 
             50 % {
@@ -307,11 +307,11 @@ body{
             }
 
             75 % {
-                transformar :  escala ( 1,2 );
+                transformar :  escala ( 1.2 );
             }
 
             100 % {
-                transformar :  escala ( 1,1 );
+                transformar :  escala ( 1.1 );
             }
 }
 
