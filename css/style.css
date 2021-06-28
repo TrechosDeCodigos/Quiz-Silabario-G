@@ -286,8 +286,12 @@ body{
   /*font-size:30px;
   color:#ffffff;
   margin: 0px;*/
-  text-align: center;
-  animation: quiOver 1s ease; 
+  /*text-align: center;
+  animation: quiOver 1s ease;*/
+  
+  filter: drop-shadow(0 0 4px #000);
+  transition: 0.5s;
+  animation: animate 2s linear infinite;
 }
 
 @-webkit-keyframes quizOver{
