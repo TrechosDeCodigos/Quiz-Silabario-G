@@ -294,16 +294,36 @@ body{
 }
 
 @keyframes quizOver{
-   0%{
-       transform: scale(.5);opacity:0 
-  }
-  100%{
-       transform: scale(1);opacity: 1
-  }
+   0 % {
+                transformar :  escala ( 1 );
+            }
+
+            25 % {
+                transformar :  escala ( 1,1 );
+            }
+
+            50 % {
+                transformar :  escala ( 1 );
+            }
+
+            75 % {
+                transformar :  escala ( 1,2 );
+            }
+
+            100 % {
+                transformar :  escala ( 1,1 );
+            }
 }
 
 
+/*
 
+@keyframes animate {
+            
+        }
+
+
+*/
  
 
 
