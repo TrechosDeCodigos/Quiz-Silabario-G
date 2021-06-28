@@ -293,34 +293,51 @@ body{
   animation: quiOver 1s ease; 
 }
 
-@keyframes quizOver{
-        0 % {
-                transformar :  escala ( 1 );
-            }
-
-            25 % {
-                transformar :  escala ( 1.1 );
-            }
-
-            50 % {
-                transformar :  escala ( 1 );
-            }
-
-            75 % {
-                transformar :  escala ( 1.2 );
-            }
-
-            100 % {
-                transformar :  escala ( 1.1 );
-            }
+@-webkit-keyframes quizOver{
+  0%{
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8)
+  }
+  100%{
+       -webkit-transform: scale(1);
+       transform: scale(1);
+  }
 }
+@keyframes quizOver{
+   0%{
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8)
+  }
+  100%{
+        -webkit-transform: scale(1);
+        transform: scale(1)
 
+  }
+}
 
 /*
 
-@keyframes animate {
-            
-        }
+@-webkit-keyframes quizOver{
+  0%{
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8)
+  }
+  100%{
+       -webkit-transform: scale(1);
+       transform: scale(1);
+  }
+}
+@keyframes quizOver{
+   0%{
+      -webkit-transform: scale(0.8);
+      transform: scale(0.8)
+  }
+  100%{
+        -webkit-transform: scale(1);
+        transform: scale(1)
+
+  }
+}
 
 
 */
