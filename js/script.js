@@ -336,7 +336,7 @@ const myApp=[
                
              //28-06-2021 - 3 Tentativa - Apareceu no gameover uma vez deu certo, na segunda vez os confetis.
             
-            var confetti = {
+              var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
@@ -459,7 +459,8 @@ const myApp=[
             }
         }();
 // custom js
- confetti.start(); 
+ confetti.start();
+
 
            
               }
