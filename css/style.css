@@ -135,17 +135,17 @@ body{
 }
 /*BOTÕES DAS IMAGENS*/
 .app .option-box button{
-     background: rgba(255, 255, 255, 0); /*ADD 07/06/2021*/
-     position: relative; /*ADICIONADO 27/04/2021*/
-     top: 10px;/*ADICIONADO 27/04/2021*/
-     left: 10px;/*ADICIONADO 27/04/2021*/
-     backdrop-filter: blur(20px);/*ADICIONADO 27/04/2021*/
-     flex-basis: calc(100% - 20px); /* MODIFICADO 27/04/2021, ERA flex-basis */
-     max-width:  calc(100% - 20px); /*MODIFICADO 27/04/2021, ERA max-width*/
-     z-index: 1; /*ADICIONADO 27/04/2021*/
-     display: flex; /*ADICIONADO 27/04/2021*/
-     justify-content: center; /*ADICIONADO 27/04/2021*/
-     align-items: center; /*ADICIONADO 27/04/2021*/
+     background: rgba(75, 241, 250, 0.3); 
+     position: relative; 
+     top: 10px;
+     left: 10px;
+     backdrop-filter: blur(20px);
+     flex-basis: calc(100% - 20px); 
+     max-width:  calc(100% - 20px); 
+     z-index: 1; 
+     display: flex; 
+     justify-content: center; 
+     align-items: center; 
      color: #FCF068;
      margin:10px;
      border:0;
@@ -222,9 +222,8 @@ body{
     left:0px;
     background-color: #57E964;
     top:0px;
-    font-size: 8vw; /*ADD 08-05-2021*/
-    font-weight: bold; /*ADD 08-05-2021*/
-    /* font-size:16px; */ 
+    font-size: 8vw; 
+    font-weight: bold; 
     color:#57E964;
     padding:5px; 
     width:100%; 
@@ -269,19 +268,18 @@ body{
   }
 }
 .app .option-box h1 span{
-     font-size: 10em; /*clamp(1.75em, 1em + 9vw, 2.5em);ADD 08-05-2021*/
-     font-weight: bold; /*ADD 08-05-2021*/
-    /* font-size: 20px;*/
+     font-size: 10em; 
+     font-weight: bold; 
      color: #FF9800;
      display: inline-block;
      padding: 10px 0px;
 
 }
 .app .option-box h1{
-  margin: 0;/*08-05-2021*/
-  padding: 0; /*08-05-2021*/    
-  font-size: 10em; /*clamp(1.75em, 1em + 9vw, 2.5em); 08-05-2021*/
-  font-weight: bold; /*08-05-2021*/
+  margin: 0;
+  padding: 0; 
+  font-size: 10em; 
+  font-weight: bold; 
 
   /*font-size:30px;
   color:#ffffff;
