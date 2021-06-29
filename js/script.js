@@ -331,10 +331,7 @@ const myApp=[
               else{
                 this.optionEle.innerHTML="<h1><img src='images/game.png'/><br> </h1>";
               }
-              
-           }
-      //28-06-2021 - 2 Tentativa
-      var confetti = {
+             var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
@@ -457,8 +454,11 @@ const myApp=[
             }
         }();
 // custom js
- confetti.start();
- // add 28 -06-2021 - 2 Tentativa
+ confetti.start(); 
+           }
+      //28-06-2021 - 2 Tentativa - SUMIU TUDO
+      
+ 
      }
     // add 28 - 06 - 2021 - APARECEU DESTE A PRIMEIRA PÁGINA
       
