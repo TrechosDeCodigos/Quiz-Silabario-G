@@ -322,7 +322,12 @@ const myApp=[
 
               this.msgEle.innerHTML="";
               this.quizEle.innerHTML="";
-              var confetti = {
+              
+          // Sim aqui sumiu tudo novamente, voltarei ao ponto que deu
+          meio certo e tentarei arruma-lo lá
+            
+            
+            var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
