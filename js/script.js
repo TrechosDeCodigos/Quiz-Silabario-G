@@ -324,14 +324,7 @@ const myApp=[
               this.quizEle.innerHTML="";
               
               if (this.score > this.quizSize/2){
-                   
-                   this.optionEle.innerHTML="<h1><img src='images/over.png'/><br> </h1>";
-
-              }
-              else{
-                this.optionEle.innerHTML="<h1><img src='images/game.png'/><br> </h1>";
-             
-            var confetti = {
+                   var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
@@ -456,6 +449,16 @@ const myApp=[
 // custom js
  confetti.start(); 
 
+
+
+                   this.optionEle.innerHTML="<h1><img src='images/over.png'/><br> </h1>";
+
+              }
+              else{
+                this.optionEle.innerHTML="<h1><img src='images/game.png'/><br> </h1>";
+           
+  
+            //28 - 06 - 2021 - 4 Tentativa - Desapareceu tudo novamente
 
               }
 
