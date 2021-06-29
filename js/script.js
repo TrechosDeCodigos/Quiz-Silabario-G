@@ -333,8 +333,7 @@ const myApp=[
               }
               
            }
-     }
-    // add 28 - 06 - 2021
+      //28-06-2021 - 2 Tentativa
       var confetti = {
             maxCount: 150,
             speed: 2,
@@ -459,8 +458,11 @@ const myApp=[
         }();
 // custom js
  confetti.start();
+ // add 28 -06-2021 - 2 Tentativa
+     }
+    // add 28 - 06 - 2021 - APARECEU DESTE A PRIMEIRA PÁGINA
+      
 
-// add 28 - 07 - 2021
        // create object without onchange of select
        const app1=new App(myApp[0],container) 
             
