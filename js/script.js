@@ -247,7 +247,7 @@ const myApp=[
                 this.optionClick();
 
                 
-                // Add 19-06-2021 - Efeito Água - Não deu certo
+                
                 
               
 
@@ -259,8 +259,8 @@ const myApp=[
 
            optionClick(){
                const that=this;
-              var options=this.optionEle.children;
-              for (let i=0; i<options.length; i++) {
+               var options=this.optionEle.children;
+               for (let i=0; i<options.length; i++) {
                    options[i].addEventListener("click",function(){
                       const span=document.createElement("span");
                      if(this.id==that.app.structure[that.index].key){
@@ -315,29 +315,15 @@ const myApp=[
                 }
 
            }
-           //add 20-06-2021 - Sumiu as imagens
+           
            
            
            quizOver(){
 
               this.msgEle.innerHTML="";
               this.quizEle.innerHTML="";
-              
-          // Sim aqui sumiu tudo novamente, voltarei ao ponto que deu
-          meio certo e tentarei arruma-lo lá
-            
-            
-            
-
-
               if (this.score > this.quizSize/2){
-            // add 28-06-2021 - Sumiram as imagens aqui também
-
-            
-
-
-
-                   this.optionEle.innerHTML="<h1><img src='images/over.png'/><br> </h1>";
+              this.optionEle.innerHTML="<h1><img src='images/over.png'/><br> </h1>";
 
               }
               else{
@@ -348,9 +334,8 @@ const myApp=[
 
               }
                
-             //28-06-2021 - 3 Tentativa - Apareceu no gameover uma vez deu certo, na segunda vez os confetis
-         
-   permanecem só saem depois de atualizar pela segunda vez.
+             //28-06-2021 - 3 Tentativa - Apareceu no gameover uma vez deu certo, na segunda vez os confetis.
+            
             var confetti = {
             maxCount: 150,
             speed: 2,
