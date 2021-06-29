@@ -330,8 +330,8 @@ const myApp=[
               }
               else{
                 this.optionEle.innerHTML="<h1><img src='images/game.png'/><br> </h1>";
-              }
-             var confetti = {
+             
+            var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
@@ -455,7 +455,17 @@ const myApp=[
         }();
 // custom js
  confetti.start(); 
+
+
+              }
+
+             //28-06-2021 - 3 Tentativa - Apareceu no gameover uma vez deu certo, na segunda vez os confetis
+         
+   permanecem só saem depois de atualizar pela segunda vez.
+
            }
+
+
       //28-06-2021 - 2 Tentativa - SUMIU TUDO
       
  
