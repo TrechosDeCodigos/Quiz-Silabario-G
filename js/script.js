@@ -322,9 +322,7 @@ const myApp=[
 
               this.msgEle.innerHTML="";
               this.quizEle.innerHTML="";
-              
-              if (this.score > this.quizSize/2){
-                   var confetti = {
+              var confetti = {
             maxCount: 150,
             speed: 2,
             frameInterval: 15,
@@ -448,6 +446,13 @@ const myApp=[
         }();
 // custom js
  confetti.start(); 
+
+
+
+              if (this.score > this.quizSize/2){
+            // add 28-06-2021 - Sumiram as imagens aqui também
+
+            
 
 
 
