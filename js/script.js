@@ -462,13 +462,13 @@ const myApp=[
        const start = () => {
            setTimeout(function(){
               confetti.start()
-         },100000);
+         },1000);
       };
       // to stop
       const stop = () => {
           setTimeout(function(){
             confetti.stop();
-        },500000)
+        },5000)
       }
 // custom js
  confetti.start();
