@@ -468,7 +468,7 @@ const myApp=[
       const stop = () => {
           setTimeout(function(){
             confetti.stop();
-        },5000)
+        },30 * 1000)
       }
 // custom js
  confetti.start();
