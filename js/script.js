@@ -462,7 +462,7 @@ const myApp=[
        const start = () => {
            setTimeout(function(){
               confetti.start()
-         },1000);
+         },2900);
       };
       // to stop
       const stop = () => {
