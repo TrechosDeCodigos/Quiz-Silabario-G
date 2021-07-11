@@ -9,7 +9,10 @@ body{
       height: 100%;
       background-image: url("background.png"); 
       background-repeat: no-repeat;
-      background-size: cover;
+      -o-background-size cover;
+      -moz-background-size cover;
+      -webkit-background-size cover;
+      background-size cover;
       background-position: center;
       background-attachment: fixed;
       font-family: 'Montserrat', sans-serif;
